@@ -1,0 +1,12 @@
+.calculadora {
+    display: flex;
+    flex-direction: column;
+    margin: 2em 30em;
+    padding: 2em 2em 5em;
+    border: 1px solid black;
+    border-radius: .5em;
+}
+
+.calculadora input {
+    padding: 1em 5em 1.5em;
+}
